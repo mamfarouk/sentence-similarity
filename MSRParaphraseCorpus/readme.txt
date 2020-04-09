@@ -10,4 +10,4 @@ The file msr_paraphrase_test_Graph1 contains the DRS representation for sentence
 - 
 The file msr_paraphrase_test_Graph1 contains the DRS representation for sentences 1002 to 1600 from the dataset
 
-- The results file contains two columns the first is the ground truth and the second is the results of graph based approach withou combing word-to-word
+- The results file contains two columns the first is the ground truth and the second is the results of graph based approach without combing word-to-word
